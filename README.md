@@ -543,7 +543,7 @@ MIT License - Free for commercial and personal use
 - 🔗 **GitHub**: [@tbhuiyan625](https://github.com/tbhuiyan625)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/tbhuiyan625)
 - 📧 **Email**: tbhuiyan625@gmail.com
-- 🌐 **Portfolio**: [tbhuiyan625.github.io](https://tbhuiyan625.github.io)
+- 🌐 **Portfolio**: [tbhuiyan625.github.io](https://tbhuiyan625.github.io/Portfolio/)
 
 ### **Skills Demonstrated**
 
